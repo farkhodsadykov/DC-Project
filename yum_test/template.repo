@@ -1,0 +1,6 @@
+[111]
+name=check server
+baseurl=ftp://172.16.1.134folder
+gpgcheck=0
+enabled=1
+
